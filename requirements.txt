@@ -5,4 +5,7 @@ matplotlib
 plotly
 wordcloud
 pillow
-base64
+pygments
+mdurl
+markdown-it-py
+rich
