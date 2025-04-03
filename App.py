@@ -29,8 +29,7 @@ def set_background(image_path):
     st.markdown(page_bg_img, unsafe_allow_html=True)
 
 # Call the function with your background image path
-set_background("C:\\Users\\91766\\Desktop\\Python ETE\\background.jpg")  # Provide the correct path to your image
-
+set_background("background.jpg") 
 # Dark Theme Styling
 st.markdown(
     """
